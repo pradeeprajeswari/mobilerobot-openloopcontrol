@@ -89,21 +89,6 @@ if _name_ == '_main_':
     ep_led.set_led(comp = "all",r=50,g=102,b=0,effect="on")
 
 
-
-
-
-
-
-
-    
-    
-    
-
-
-
-
-
-
     time.sleep(4)
     ep_camera.stop_video_stream()
     print("Stopped video streaming.....")
@@ -115,8 +100,11 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+![image 1](https://github.com/pradeeprajeswari/mobilerobot-openloopcontrol/assets/145743112/26cd4cdf-ec67-4f8d-ac69-5e69a7d41ff1)
 
+![image 2](https://github.com/pradeeprajeswari/mobilerobot-openloopcontrol/assets/145743112/2e36a6d5-8b7f-4715-a0e2-00c47d5b9892)
+
+![image 3](https://github.com/pradeeprajeswari/mobilerobot-openloopcontrol/assets/145743112/d79645a1-b5e1-4567-8b8c-edd941f3cfe1)
 
 <br/>
 <br/>
@@ -124,10 +112,8 @@ Insert image here
 <br/>
 
 ## MobileRobot Movement Video:
+https://youtu.be/OtX1AJ78cyQ?si=5Jr1nLIDWDMbZU8h
 
-Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <br/>
 <br/>
